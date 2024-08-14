@@ -1,7 +1,7 @@
 ---
 home: true
 actionText: 开始阅读 →
-actionLink: /getting-started/README.md
+actionLink: /getting-started/
 features:
   - title: 职业规划
     details: 介绍了如何进行职业规划，包括找准自身的定位、职业方向选择、工作方向选择，还有离职需要注意的一些事情。
@@ -13,6 +13,8 @@ features:
     details: 围绕着工作效率，介绍了一些提升工作效率的方法，包括时间管理、合理使用 Todo List，让工作达到事半功倍的效果。
   - title: 生活和工作
     details: 主要介绍了生活和工作的关系，包括生活和工作的原则和选择、平衡方式，以及情绪管理。
+  - title: 工作经历
+    details: 介绍了下个人工作经历。
 footer: MIT Licensed | Copyright © 2024-present 被删
 ---
 

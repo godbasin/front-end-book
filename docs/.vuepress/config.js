@@ -26,19 +26,18 @@ module.exports = {
         nav: [
             { text: '概述', link: '/' },
             { text: '内容', link: '/getting-started/' },
-            { text: '参与贡献', link: '/how-to-contribute' },
         ],
         sidebar: {
             '/getting-started/': [
                 {
                     title: '前言',
-                    collapsable: true,
+                    collapsable: false,
                     children: [
                         '/getting-started/start.md',
                     ]
                 }, {
                     title: '第 5 章 如何进行职业规划',
-                    collapsable: true,
+                    collapsable: false,
                     children: [
                         '/getting-started/5/5.1.md',
                         '/getting-started/5/5.2.md',
@@ -47,7 +46,7 @@ module.exports = {
                     ]
                 }, {
                     title: '第 6 章 工作中的原则和方法',
-                    collapsable: true,
+                    collapsable: false,
                     children: [
                         '/getting-started/6/6.1.md',
                         '/getting-started/6/6.2.md',
@@ -55,7 +54,7 @@ module.exports = {
                     ]
                 }, {
                     title: '第 7 章 我和团队有个约会',
-                    collapsable: true,
+                    collapsable: false,
                     children: [
                         '/getting-started/7/7.1.md',
                         '/getting-started/7/7.2.md',
@@ -63,7 +62,7 @@ module.exports = {
                     ]
                 }, {
                     title: '第 8 章 提高效率，早点下班',
-                    collapsable: true,
+                    collapsable: false,
                     children: [
                         '/getting-started/8/8.1.md',
                         '/getting-started/8/8.2.md',
@@ -71,7 +70,7 @@ module.exports = {
                     ]
                 }, {
                     title: '第 9 章 工作与生活息息相关',
-                    collapsable: true,
+                    collapsable: false,
                     children: [
                         '/getting-started/9/9.1.md',
                         '/getting-started/9/9.2.md',
@@ -79,7 +78,7 @@ module.exports = {
                     ]
                 }, {
                     title: '后记',
-                    collapsable: true,
+                    collapsable: false,
                     children: [
                         '/getting-started/end.md',
                     ]

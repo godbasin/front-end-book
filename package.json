@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "async-validator": "1.11.5",
     "element-ui": "^2.10.1"
   },
   "devDependencies": {

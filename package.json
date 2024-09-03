@@ -1,4 +1,7 @@
 {
+  "dependencies": {
+    "element-ui": "^2.10.1"
+  },
   "devDependencies": {
     "vuepress": "^1.8.2"
   },

@@ -17,7 +17,7 @@ jobs:
     runs-on: ubuntu-latest
     strategy:
       matrix:
-        node-version: [10.x]
+        node-version: [12.x]
 
     steps:
       - uses: actions/checkout@v2
@@ -36,6 +36,7 @@ jobs:
         run: |
           npm run build
           cp README.md docs/.vuepress/dist/
+          cp 前端的进击.pdf docs/.vuepress/dist/
           cd docs/.vuepress/dist
       - name: Deploy
         uses: JamesIves/github-pages-deploy-action@3.6.2

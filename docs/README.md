@@ -22,10 +22,6 @@ footer: MIT Licensed | Copyright © 2024-present 被删
 
 <div style="text-align: center;">
 
-## 参与贡献
-
-如果你有好的内容调整或者新增，或者是希望我们补充更多的内容，可点击[参与贡献](./how-to-contribute.md)。
-
 ![](./images/readme-0.png)
 
 <br/>
